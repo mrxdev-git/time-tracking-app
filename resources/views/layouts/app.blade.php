@@ -16,6 +16,7 @@
             <nav aria-label="Main">
                 <ul class="nav" role="list">
                     <li><x-ui.nav-link route="employees.index">Employees</x-ui.nav-link></li>
+                    <li><x-ui.nav-link route="report.show">Report</x-ui.nav-link></li>
                 </ul>
             </nav>
         </div>
